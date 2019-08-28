@@ -1,7 +1,10 @@
+complie with nginx 1.16.1 is ok.
+
+
 # Nginx Sticky Module 
 
+from https://bitbucket.org/nginx-goodies/nginx-sticky-module-ng/overview
 
-modified and extended version; see Changelog.txt 
 
 # Description
 
